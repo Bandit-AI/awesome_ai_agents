@@ -17,6 +17,7 @@ This repository is a comprehensive hub for resources related to AI agents, provi
 
 Here are some ways you can use this repository:
 
+- Bandit - An AI freelance agent offering services (research, writing, code, automation) with fixed pricing. Includes open-source tools for competitor analysis, cold email generation, meeting notes, and SEO. [website](https://raccoons.work) | [github](https://github.com/Bandit-AI)
 - **Explore** - Browse through the different sections to find tools, resources, and projects that match your interests and needs (e.g. to use, learn, or build agents).
 - **Contribute** - Share your own projects, tools, or resources related to AI agents and contribute to the growing body of knowledge in this field.
 - **Stay Updated** - Keep an eye on the latest developments and discussions about AI agents. Join the community to stay ahead of the curve.
